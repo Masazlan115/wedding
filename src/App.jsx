@@ -164,7 +164,9 @@ function App() {
               <h2>Assalamualaikum & Salam Sejahtera</h2>
               <br/>
               <ul style={{ listStyle: 'none', lineHeight: '2' }}>
-                <li><strong>Abdul Karnain & Faziratul Shima</strong></li>
+                <li><strong>ABDUL KARNAIN BIN ABDUL MUIN</strong></li>
+                <li><strong>&</strong></li>
+                <li><strong>FAZIRATUL SHIMA BINTI KAMARUDDIN</strong></li>
                 <li><strong>(Keluarga pengantin lelaki)</strong></li>
                 <li><strong>Dengan penuh kesyukuran kehadrat Illahi, kami mempersilakan</strong></li>
                 <li><strong>Dato'/Datin/Dr/Tuan/Puan/Encik/Cik</strong></li>
