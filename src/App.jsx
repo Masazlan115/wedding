@@ -1,6 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Calendar, MapPin, Clock, Music, VolumeX, Heart, BookOpen } from 'lucide-react';
+// Add 'Crown' to the list
+import { Calendar, MapPin, Clock, Music, VolumeX, Heart, BookOpen, Crown } from 'lucide-react';
 import './App.css';
 
 function App() {
@@ -115,6 +116,10 @@ function App() {
                 <div className="info-row">
                   <MapPin size={20} color="#D4AF37"/>
                   <p>Dewan Pudina MBSA, Taman Bukit Subang</p>
+                </div>
+                <div className="info-row">
+                  <Crown size={20} color="#D4AF37"/>
+                  <p>Ketibaan Pengantin: 12:30 PM</p>
                 </div>
               </div>
 
